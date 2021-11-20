@@ -259,6 +259,11 @@ i {
     display: none;
   }
 }
+@media (max-width: 395px) {
+    .categoris .services-content .srv i{
+              margin-bottom: 12px;
+    }
+}
 /* End Services  */
 /* Start protfolio */
 .protfolio {
@@ -397,7 +402,7 @@ i {
 }
 @media (max-width: 395px) {
   .contact .text a {
-    font-size: 25px;
+    font-size: 21px;
   }
 }
 .contact .social {
